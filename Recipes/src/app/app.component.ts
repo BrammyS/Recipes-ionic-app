@@ -13,12 +13,12 @@ export class AppComponent {
   public appPages = [
     {
       title: 'Recipes',
-      url: '/home',
+      url: '/recipes',
       icon: 'list'
     },
     {
       title: 'New Recipe',
-      url: '/new-recipe',
+      url: '/recipes/new',
       icon: 'add-circle'
     }
   ];
