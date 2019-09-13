@@ -15,6 +15,9 @@ export class RecipesPage implements OnInit {
   ngOnInit() {
   }
 
-
-
+  test(){
+    this.recipeService.recipes.forEach(e => {
+      console.log(e);
+    });
+  }
 }

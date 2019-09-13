@@ -10,6 +10,13 @@
   </ion-header>
   
   <ion-content>
-      <ion-button color="primary" (click)="test()">Primary</ion-button>
+    <ion-list>
+      <ion-item *ngFor="let recipe of this.recipeService.recipes; let i = index">
+        <ion-avatar slot="start">
+          <img [src]="recipe.imgUrl">
+        </ion-avatar>
+        <ion-label>{{recipe.name}}</ion-label>
+      </ion-item>
+    </ion-list>
   </ion-content>
   
