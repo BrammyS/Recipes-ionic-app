@@ -7,17 +7,17 @@ const routes: Routes = [
     redirectTo: 'recipes',
     pathMatch: 'full'
   },
-  { 
-    path: 'recipes', 
+  {
+    path: 'recipes',
     loadChildren: './recipes/recipes.module#RecipesPageModule'
   },
-  { 
-    path: 'recipes/new', 
-    loadChildren: './recipes/new/new.module#NewPageModule' 
+  {
+    path: 'recipes/new',
+    loadChildren: './recipes/new/new.module#NewPageModule'
   },
-  { 
-    path: 'recipes/details', 
-    loadChildren: './recipes/details/details.module#DetailsPageModule' 
+  {
+    path: 'recipes/details',
+    loadChildren: './recipes/details/details.module#DetailsPageModule'
   }
 ];
 
