@@ -1,14 +1,29 @@
 <ion-header>
     <ion-toolbar color="primary">
       <ion-buttons slot="start">
-        <ion-menu-button></ion-menu-button>
+        <ion-back-button></ion-back-button>
+        <ion-button (click)="removeItem(recipe.index)">
+            <ion-icon slot="end" name="md-trash"></ion-icon>
+          </ion-button>
       </ion-buttons>
       <ion-title>
-        Details
+        {{recipe.name}}
       </ion-title>
     </ion-toolbar>
   </ion-header>
   
   <ion-content>
+    <ion-card>
+        <img [src]="recipe.imgUrl">
+        <ion-card-content>
+          <ion-list>
+            <ion-list-header>ingredients</ion-list-header>
+            <ion-item *ngFor="let ingredient of recipe.ingredients">
+              {{ingredient}}
+            </ion-item>
+          </ion-list>
+        </ion-card-content>
+    </ion-card>
+
   </ion-content>
   
