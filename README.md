@@ -16,7 +16,7 @@
     <img src="Preview img/NewRecipe.png" alt="Logo" width="280" height="560">
   </a>
   
-  <h2 align="center">Recipes-ionic-app</h2>
+  <h3 align="center">Recipes-ionic-app</h3>
 
   <p align="center">
     An app made for saving your recipes!<br />
