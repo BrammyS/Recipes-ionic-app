@@ -10,7 +10,13 @@
 <br />
 <p align="center">
   
-  <h3 align="center">Recipes-ionic-app</h3>
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="Preview img/RecipeList.png" alt="Logo" width="280" height="560">
+    <img src="Preview img/RecipeDetails.png" alt="Logo" width="280" height="560">
+    <img src="Preview img/NewRecipe.png" alt="Logo" width="280" height="560">
+  </a>
+  
+  <h2 align="center">Recipes-ionic-app</h2>
 
   <p align="center">
     An app made for saving your recipes!<br />
@@ -20,11 +26,6 @@
     <a href="https://github.com/BramEsendam/Recipes-ionic-app/issues">Request Feature</a>
   </p>
   
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="Preview img/RecipeList.png" alt="Logo" width="280" height="560">
-    <img src="Preview img/RecipeDetails.png" alt="Logo" width="280" height="560">
-    <img src="Preview img/NewRecipe.png" alt="Logo" width="280" height="560">
-  </a>
 </p>
 
 
