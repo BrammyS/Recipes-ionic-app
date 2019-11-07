@@ -9,12 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="Preview img/RecipeList.png" alt="Logo" width="280">
-    <img src="Preview img/RecipeDetails.png" alt="Logo" width="280">
-    <img src="Preview img/NewRecipe.png" alt="Logo" width="280">
-  </a>
-
+  
   <h3 align="center">Recipes-ionic-app</h3>
 
   <p align="center">
@@ -24,6 +19,12 @@
     ·
     <a href="https://github.com/BramEsendam/Recipes-ionic-app/issues">Request Feature</a>
   </p>
+  
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="Preview img/RecipeList.png" alt="Logo" width="280" height="560">
+    <img src="Preview img/RecipeDetails.png" alt="Logo" width="280" height="560">
+    <img src="Preview img/NewRecipe.png" alt="Logo" width="280" height="560">
+  </a>
 </p>
 
 
