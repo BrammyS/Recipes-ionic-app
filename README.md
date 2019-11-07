@@ -1,8 +1,7 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Contributors][contributors-shield]][contributors-url] 
+[![Forks][forks-shield]][forks-url] 
+[![Stargazers][stars-shield]][stars-url] 
+[![Issues][issues-shield]][issues-url] 
 
 
 
@@ -135,6 +134,4 @@ Project Link: [https://github.com/BramEsendam/RaspberryPiProjects](https://githu
 [stars-url]: https://github.com/BramEsendam/Recipes-ionic-app/stargazers
 [issues-shield]: https://img.shields.io/github/issues/BramEsendam/Recipes-ionic-app.svg?style=flat-square
 [issues-url]: https://github.com/BramEsendam/Recipes-ionic-app/issues
-[license-shield]: https://img.shields.io/github/license/BramEsendam/Recipes-ionic-app.svg?style=flat-square
-[license-url]: https://github.com/BramEsendam/Recipes-ionic-app/blob/master/LICENSE
 [product-screenshot]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ionic-logo-landscape.svg/1200px-Ionic-logo-landscape.svg.png
