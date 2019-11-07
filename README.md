@@ -118,8 +118,7 @@ Project Link: [https://github.com/BramEsendam/RaspberryPiProjects](https://githu
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Img Shields](https://shields.io)
-* [Angular](https://angular.io/)
-* [Ionic](https://ionicframework.com/)
+* [cordova](https://cordova.apache.org/)
 
 
 
