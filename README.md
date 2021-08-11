@@ -110,7 +110,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/BramEsendam/
 ## Contact
 
 [Discord](https://discordapp.com/) - Brammys#0001   
-[Github](https://github.com/BramEsendam) - Bram Esendam
+[Github](https://github.com/brammys) - BrammyS
 
 Project Link: [https://github.com/BramEsendam/RaspberryPiProjects](https://github.com/BramEsendam/RaspberryPiProjects)
 
